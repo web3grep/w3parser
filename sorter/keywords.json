@@ -1,0 +1,102 @@
+{
+    "multiple_keywords_channel": {
+        "channel_id": "-1002040054841",
+        "exceptions": ["exception1", "exception2"]
+    },
+    "-1002117240034": {
+        "keywords": ["zksync", "starknet", "base", "scroll", "linea", "taiko", "altlayer", "aleo", "taho", "mantle", "supra", "nova", "zora", "fuel", "aptos", "injective", "magpie", "zetachain"],
+        "exceptions": ["выжимка", "exception2"]
+    },
+    "-1002040054841": {
+        "keywords": ["выжимка", "подборка активностей", "#Дайджест", "keyword672"],
+        "exceptions": ["exception3", "exception4"]
+    },
+    "-1002069808841": {
+        "keywords": [" ноду ", " нода ", "валидатор"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1001878406526": {
+        "keywords": ["binance", "bybit", "bitget", "okx", "cex", "биржа"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002144388290": {
+        "keywords": [" форма ", " форму ", " форму ", "заполняем", "почту", "ранний доступ", "вейтлист", "тестнет", "ерли", "ранний доступ", "андер радар", "гем"],
+        "exceptions": ["exception3", "#Дайджест"]
+    },
+    "-1002081067506": {
+        "keywords": [" ama ", "разговор", "community call", " ама ", " созвон ", "подкаст"],
+        "exceptions": ["exception3", "#Дайджест"]
+    },
+    "-1002138146869": {
+        "keywords": [" base"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002011452848": {
+        "keywords": ["scroll"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002104926688": {
+        "keywords": ["aleo"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002114075417": {
+        "keywords": ["linea"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1001997560563": {
+        "keywords": ["starknet"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002040314608": {
+        "keywords": ["zora"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1001991499832": {
+        "keywords": ["altlater"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1001997046152": {
+        "keywords": ["fuel"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1001951438111": {
+        "keywords": ["gitcoin"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002052551981": {
+        "keywords": ["layerzero", "layer zero"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002052121365": {
+        "keywords": ["mantle"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002019444336": {
+        "keywords": ["supra"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002002421795": {
+        "keywords": ["tabi"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002145913887": {
+        "keywords": ["taho"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002036069924": {
+        "keywords": ["taiko"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002039797918": {
+        "keywords": ["zksync"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002115335887": {
+        "keywords": ["zkevm"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    },
+    "-1002116428010": {
+        "keywords": ["Deposit and trade to earn", "Launchpad", "Web3 IDO", "ByVotes"],
+        "exceptions": ["выжимка", "#Дайджест"]
+    }
+}
